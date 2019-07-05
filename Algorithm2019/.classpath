@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="67 - Add Binary"/>
+	<classpathentry kind="src" path="2 - Add Two Numbers"/>
+	<classpathentry kind="src" path="20 - Valid Parentheses"/>
+	<classpathentry kind="src" path="102 - Binary Tree Levels Order Traversal"/>
+	<classpathentry kind="src" path="94 - Binary Tree Inorder Traversal"/>
+	<classpathentry kind="src" path="134 - Gas Station"/>
+	<classpathentry kind="src" path="208 - Implement Trie"/>
+	<classpathentry kind="src" path="5 - Longest Palindromic Substring"/>
+	<classpathentry kind="src" path="64 - Minimum Path Sum"/>
+	<classpathentry kind="src" path="131 - Palindrome Partitioning"/>
+	<classpathentry kind="src" path="86 - Partition List"/>
+	<classpathentry kind="src" path="46 - Permutations"/>
+	<classpathentry kind="src" path="60 - Permutation Sequence"/>
+	<classpathentry kind="src" path="26 - Remove Duplicates from Sorted Array"/>
+	<classpathentry kind="src" path="83 - Remove Duplicates from Sorted List"/>
+	<classpathentry kind="src" path="143 - Reorder List"/>
+	<classpathentry kind="src" path="92 - Reverse Linked List II"/>
+	<classpathentry kind="src" path="71 - Simplify Path"/>
+	<classpathentry kind="src" path="75 - Sort Color"/>
+	<classpathentry kind="src" path="54 - Spiral Matrix"/>
+	<classpathentry kind="src" path="130 - Surrounded Regions"/>
+	<classpathentry kind="src" path="102 - Binary Tree Level Order Traversal"/>
+	<classpathentry kind="src" path="120 - Triangle"/>
+	<classpathentry kind="src" path="1 - Two Sum"/>
+	<classpathentry kind="src" path="96 - Unique Binary Search Trees NC"/>
+	<classpathentry kind="src" path="98 - Validate Binary Search Tree"/>
+	<classpathentry kind="src" path="3 - Longest Substring Without Repeating Characters"/>
+	<classpathentry kind="src" path="7 - Reverse Integer"/>
+	<classpathentry kind="src" path="9 - Palindrome Number"/>
+	<classpathentry kind="src" path="11 - Container With Most Water"/>
+	<classpathentry kind="src" path="14 - Longest Common Prefix"/>
+	<classpathentry kind="src" path="15 - 3Sum"/>
+	<classpathentry kind="src" path="17 - Letter Combinations of a Phone Number"/>
+	<classpathentry kind="src" path="19 - Remove Nth Node From End of List"/>
+	<classpathentry kind="src" path="21 - Merge Two Sorted Lists"/>
+	<classpathentry kind="src" path="22 - Generate Parentheses"/>
+	<classpathentry kind="src" path="24 - Swap Nodes  in Pairs"/>
+	<classpathentry kind="src" path="27 - Remove Element"/>
+	<classpathentry kind="src" path="28 - Implement strStr()"/>
+	<classpathentry kind="src" path="29 - Divide Two Integers"/>
+	<classpathentry kind="src" path="33 - Search In Rotated Sorted Array"/>
+	<classpathentry kind="src" path="34 - Find First and Last Position of Element in Sorted Array"/>
+	<classpathentry kind="src" path="35 - Search Insert Position"/>
+	<classpathentry kind="src" path="36 - Valid Sudoku"/>
+	<classpathentry kind="src" path="39 - Combination Sum"/>
+	<classpathentry kind="src" path="40 - Combination Sum II"/>
+	<classpathentry kind="src" path="43 - Multiply String"/>
+	<classpathentry kind="src" path="47 - Permutations II"/>
+	<classpathentry kind="src" path="48 - Rotate Image"/>
+	<classpathentry kind="src" path="49 - Group Anagrams"/>
+	<classpathentry kind="src" path="50 - Pow(x,n)"/>
+	<classpathentry kind="src" path="53 - Maximum Subarray"/>
+	<classpathentry kind="src" path="55 - Jump Game"/>
+	<classpathentry kind="src" path="56 - Merge Intervals"/>
+	<classpathentry kind="src" path="58 - Length of Last Word"/>
+	<classpathentry kind="src" path="61 - Rotate List"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
